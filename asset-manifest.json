@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/VanyaKruto/film/static/css/main.052a36b2.css",
-    "main.js": "/VanyaKruto/film/static/js/main.1d456b6d.js",
+    "main.js": "/VanyaKruto/film/static/js/main.6f7239fe.js",
     "index.html": "/VanyaKruto/film/index.html",
     "main.052a36b2.css.map": "/VanyaKruto/film/static/css/main.052a36b2.css.map",
-    "main.1d456b6d.js.map": "/VanyaKruto/film/static/js/main.1d456b6d.js.map"
+    "main.6f7239fe.js.map": "/VanyaKruto/film/static/js/main.6f7239fe.js.map"
   },
   "entrypoints": [
     "static/css/main.052a36b2.css",
-    "static/js/main.1d456b6d.js"
+    "static/js/main.6f7239fe.js"
   ]
 }
