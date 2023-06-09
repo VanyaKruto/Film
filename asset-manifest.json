@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/film.io/static/css/main.052a36b2.css",
-    "main.js": "/film.io/static/js/main.6f7239fe.js",
-    "index.html": "/film.io/index.html",
-    "main.052a36b2.css.map": "/film.io/static/css/main.052a36b2.css.map",
-    "main.6f7239fe.js.map": "/film.io/static/js/main.6f7239fe.js.map"
+    "main.css": "/Film/static/css/main.052a36b2.css",
+    "main.js": "/Film/static/js/main.6f7239fe.js",
+    "index.html": "/Film/index.html",
+    "main.052a36b2.css.map": "/Film/static/css/main.052a36b2.css.map",
+    "main.6f7239fe.js.map": "/Film/static/js/main.6f7239fe.js.map"
   },
   "entrypoints": [
     "static/css/main.052a36b2.css",
